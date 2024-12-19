@@ -94,7 +94,7 @@ O'quvchilar rasmlari saqlanadigan papka. Har bir rasm fayli o'quvchining to'liq 
 
 ### Asosiy menyu:
 
-![Asosiy menyu](face.jpg)
+![Asosiy menyu](face2.jpg)
 
 ---
 
