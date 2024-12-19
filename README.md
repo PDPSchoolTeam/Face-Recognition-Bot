@@ -1,4 +1,4 @@
-###                                                                                                                                                                                              Face-Recognition-Bot 
+### Face-Recognition-Bot 
 ![Flux_Schnell_a_young_school_student_likely_between_12_to_15_ye_0](https://github.com/user-attachments/assets/d89e3a88-42e7-45ef-9f4b-c4a1c3028524)
 
 **Face-Recognition-Bot** - bu Telegram bot bo'lib, u o'quvchilar davomatini boshqarishda yuzni tanib olish texnologiyasidan foydalanadi. Bot o'quvchilarni yuzlari orqali aniqlaydi va ularni "Kelgan" va "Kelmagan" guruhlarga ajratadi. Bu bot aynan 10A sinfining davomatini boshqarish uchun mo'ljallangan.
