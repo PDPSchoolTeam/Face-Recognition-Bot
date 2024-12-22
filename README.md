@@ -107,10 +107,6 @@ O'quvchilar rasmlari saqlanadigan papka. Har bir rasm fayli o'quvchining to'liq 
 - Katta hajmdagi ma'lumotlar uchun ma'lumotlar bazasi integratsiyasi.
 
 ---
-![4](https://github.com/user-attachments/assets/87aceb0e-aa07-4300-8c7f-994720a3d888)
-![3](https://github.com/user-attachments/assets/9a0d2170-305b-4ecf-942c-5dc23269c2ab)
-![2](https://github.com/user-attachments/assets/009f5a02-61da-49be-819e-e39940160c20)
-![1](https://github.com/user-attachments/assets/da64c052-4e27-4dc9-becd-c5b3503f1578)
 
 
 ## Litsenziya
